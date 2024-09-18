@@ -1,0 +1,125 @@
+(footprint "MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Mounting Hole 5.3mm, M5, ISO7380")
+	(tags "mounting hole 5.3mm m5 iso7380")
+	(property "Reference" "REF**"
+		(at 0 -5.75 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "3a6c5c71-9beb-4067-a787-eef0dcf14c29")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MountingHole_Pad_MP"
+		(at 0 5.75 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dc111011-7a13-42bf-a904-cfaf4c33889f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "671e904c-7152-40de-93b5-1d350af7d616")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b6928daa-6830-4258-9acd-c8f075dcfafc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Mounting Hole with connection"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "efc90d3f-e9f2-4fac-994c-423be4ec3c6d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_circle
+		(center 0 0)
+		(end 4.75 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "20a535fe-69ac-4b14-94b4-6b6faee81ada")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 5 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "8fd5f1df-a3ac-41ab-98cc-e4aef0c7c4ee")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "aba17ff2-b053-4554-8b8e-290a5fcab75e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 5.7 5.7)
+		(drill 5.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "62718292-f153-47b6-bda7-cbb74a4c8025")
+	)
+	(pad "1" connect circle
+		(at 0 0)
+		(size 9.5 9.5)
+		(layers "F.Cu" "F.Mask")
+		(uuid "55c9de15-3c39-49a1-b6a7-9f24130ccbc9")
+	)
+	(pad "1" connect circle
+		(at 0 0)
+		(size 9.5 9.5)
+		(layers "B.Cu" "B.Mask")
+		(uuid "d491ce1f-146d-4366-a91e-fc2006611471")
+	)
+)

@@ -1,0 +1,169 @@
+(footprint "FUSE-MCCQ-122"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.143 -3.543 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "3816b3cd-6e13-4e32-8674-4d78b014f892")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Fuse"
+		(at 0.016 3.696 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6037712b-e67a-4dcd-b368-ebc3767ca1c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "FUSE-MCCQ-122"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5196e563-dd4a-48b3-8a3b-97c46294682c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0a99a3de-666c-4dc3-96be-4a061cbfff99")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Fuse"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f1d824aa-3fda-4743-add9-73de6c44a080")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_poly
+		(pts
+			(xy -7.600001 -2.65) (xy 7.600001 -2.65) (xy 7.600001 2.65) (xy -7.600001 2.65)
+		)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "16f8b26a-67b1-46de-bb34-de92b09a6b51")
+	)
+	(fp_poly
+		(pts
+			(xy -7.35 -2.4) (xy 7.35 -2.4) (xy 7.35 2.4) (xy -7.35 2.4)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "d06187bb-5430-4286-a393-8cb440eaaaf1")
+	)
+	(fp_line
+		(start -7.35 -2.4)
+		(end 7.35 2.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "41884df2-8e74-4bfe-857b-a0c4e2113e5d")
+	)
+	(fp_line
+		(start 7.35 -2.4)
+		(end -7.35 2.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "User.1")
+		(uuid "5fcb8ebb-8da3-4ce6-8d6e-abc970a35a92")
+	)
+	(pad "1" thru_hole oval
+		(at -5.95 0)
+		(size 2.55 2.55)
+		(drill 1.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "e0cb8b68-93e7-4a4c-acff-3cd07ef9c23b")
+	)
+	(pad "1" thru_hole oval
+		(at -2.25 0)
+		(size 2.55 2.55)
+		(drill 1.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "6b627d34-30da-44a4-8a57-14e6eaa90343")
+	)
+	(pad "2" thru_hole oval
+		(at 2.25 0)
+		(size 2.55 2.55)
+		(drill 1.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "cc9339a0-39dc-471f-a3bf-ce41d299772d")
+	)
+	(pad "2" thru_hole oval
+		(at 5.95 0)
+		(size 2.55 2.55)
+		(drill 1.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "1c1a0ba6-0c94-4219-9c9b-b79b89781e2d")
+	)
+	(model "${KIPRJMOD}/kicad-resources/packages3D/Fusibile Lama MINI Type 2.stp"
+		(offset
+			(xyz 0 -0.5 9)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/kicad-resources/packages3D/MCCQ-122.step"
+		(offset
+			(xyz -1.85 -0.85 2.3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
