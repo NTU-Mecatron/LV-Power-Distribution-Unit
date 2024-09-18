@@ -1,5 +1,8 @@
-# Template repo
+# Power Distribution Unit (LV)
 
-This is a template repo with automated github pages documentation generation.
+This is the power distribution unit for low voltage systems, meant for Mecatron's autonomous underwater vehicles.
 
-see [help](./help.md) for more.
+
+
+### License 
+CERN-OHL-S
