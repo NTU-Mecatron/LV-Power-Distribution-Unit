@@ -1,7 +1,6 @@
 
 site/
 
-
 *.lck
 
 # Created by https://www.toptal.com/developers/gitignore/api/kicad,macos
@@ -36,7 +35,6 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-*.csv
 
 ### KiCad Patch ###
 rescue-backup/

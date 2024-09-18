@@ -2735,7 +2735,7 @@
 				)
 			)
 		)
-		(property "Footprint" "G8PM1AW7RDC12"
+		(property "Footprint" "lib:G8PM1AW7RDC12"
 			(at 88.9 58.42 0)
 			(effects
 				(font
@@ -2755,6 +2755,24 @@
 			)
 		)
 		(property "Description" "Relay SPST, normally open, EN50005"
+			(at 87.63 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "G8PM-1AW7RDC12"
+			(at 87.63 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 87.63 46.99 0)
 			(effects
 				(font
@@ -2810,7 +2828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "FUSE-MCCQ-122"
+		(property "Footprint" "lib:FUSE-MCCQ-122"
 			(at 34.29 38.608 90)
 			(effects
 				(font
@@ -2829,6 +2847,24 @@
 			)
 		)
 		(property "Description" "Fuse"
+			(at 34.29 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "MCCQ-122"
+			(at 34.29 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 34.29 36.83 0)
 			(effects
 				(font
@@ -3082,7 +3118,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "lib:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 38.862 82.55 90)
 			(effects
 				(font
@@ -3101,6 +3137,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 40.64 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" "any 2kOhm resistor, L3.6mm"
 			(at 40.64 82.55 0)
 			(effects
 				(font
@@ -3219,7 +3264,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 167.9448 29.21 0)
 			(effects
 				(font
@@ -3238,6 +3283,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 168.91 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 168.91 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
 			(at 168.91 25.4 0)
 			(effects
 				(font
@@ -3289,7 +3352,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
+		(property "Footprint" "lib:MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
 			(at 46.99 105.41 0)
 			(effects
 				(font
@@ -3308,6 +3371,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 46.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 46.99 105.41 0)
 			(effects
 				(font
@@ -3347,7 +3419,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "Green LED"
 			(at 44.45 76.5174 90)
 			(effects
 				(font
@@ -3356,7 +3428,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_D5.0mm"
+		(property "Footprint" "lib:LED_D5.0mm"
 			(at 40.64 73.66 0)
 			(effects
 				(font
@@ -3375,6 +3447,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 40.64 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" "any green LED, 5mm"
 			(at 40.64 73.66 0)
 			(effects
 				(font
@@ -3426,7 +3507,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "lib:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 26.162 82.55 90)
 			(effects
 				(font
@@ -3445,6 +3526,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" "any 2kOhm resistor, L3.6mm"
 			(at 27.94 82.55 0)
 			(effects
 				(font
@@ -3563,7 +3653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
+		(property "Footprint" "lib:MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
 			(at 27.94 105.41 0)
 			(effects
 				(font
@@ -3582,6 +3672,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 27.94 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 27.94 105.41 0)
 			(effects
 				(font
@@ -3630,7 +3729,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 133.6548 29.21 0)
 			(effects
 				(font
@@ -3649,6 +3748,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 134.62 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 134.62 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
 			(at 134.62 25.4 0)
 			(effects
 				(font
@@ -3767,7 +3884,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 145.0848 50.8 0)
 			(effects
 				(font
@@ -3786,6 +3903,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 146.05 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 146.05 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
 			(at 146.05 46.99 0)
 			(effects
 				(font
@@ -3903,7 +4038,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
+		(property "Footprint" "lib:MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
 			(at 34.29 105.41 0)
 			(effects
 				(font
@@ -3922,6 +4057,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 34.29 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 34.29 105.41 0)
 			(effects
 				(font
@@ -3970,7 +4114,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 145.0848 29.21 0)
 			(effects
 				(font
@@ -3989,6 +4133,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 146.05 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 146.05 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
 			(at 146.05 25.4 0)
 			(effects
 				(font
@@ -4038,7 +4200,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "lib:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 87.63 27.94 0)
 			(effects
 				(font
@@ -4083,6 +4245,24 @@
 				(hide yes)
 			)
 		)
+		(property "sourcing-part-num" "1N4007"
+			(at 87.63 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 87.63 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8b4a71a0-90da-4fc2-a28b-d3c9fc07ac7b")
 		)
@@ -4117,7 +4297,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "Blue LED"
 			(at 31.75 76.5174 90)
 			(effects
 				(font
@@ -4126,7 +4306,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_D5.0mm"
+		(property "Footprint" "lib:LED_D5.0mm"
 			(at 27.94 73.66 0)
 			(effects
 				(font
@@ -4145,6 +4325,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 27.94 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" "any blue LED, 5mm"
 			(at 27.94 73.66 0)
 			(effects
 				(font
@@ -4196,7 +4385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
+		(property "Footprint" "lib:MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
 			(at 40.64 105.41 0)
 			(effects
 				(font
@@ -4215,6 +4404,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 40.64 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 40.64 105.41 0)
 			(effects
 				(font
@@ -4263,7 +4461,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 167.9448 50.8 0)
 			(effects
 				(font
@@ -4282,6 +4480,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 168.91 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 168.91 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
 			(at 168.91 46.99 0)
 			(effects
 				(font
@@ -4400,7 +4616,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 133.6548 50.8 0)
 			(effects
 				(font
@@ -4419,6 +4635,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 134.62 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 134.62 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
 			(at 134.62 46.99 0)
 			(effects
 				(font
@@ -4536,7 +4770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PinHeader_2x03_P2.54mm_Vertical"
+		(property "Footprint" "lib:PinHeader_2x03_P2.54mm_Vertical"
 			(at 57.15 39.37 0)
 			(effects
 				(font
@@ -4555,6 +4789,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 57.15 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 57.15 39.37 0)
 			(effects
 				(font
@@ -4684,7 +4927,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 156.5148 50.8 0)
 			(effects
 				(font
@@ -4703,6 +4946,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 157.48 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 157.48 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
 			(at 157.48 46.99 0)
 			(effects
 				(font
@@ -4821,7 +5082,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AMASS_XT60PW-M_1x02_P7.20mm_Horizontal"
+		(property "Footprint" "lib:AMASS_XT60PW-M_1x02_P7.20mm_Horizontal"
 			(at 33.02 22.86 0)
 			(effects
 				(font
@@ -4840,6 +5101,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 33.02 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 33.02 22.86 0)
 			(effects
 				(font
@@ -4891,7 +5161,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 156.5148 29.21 0)
 			(effects
 				(font
@@ -4910,6 +5180,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 157.48 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 157.48 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
 			(at 157.48 25.4 0)
 			(effects
 				(font

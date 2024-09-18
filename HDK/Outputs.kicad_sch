@@ -2182,7 +2182,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS5460 康威科技"
+		(property "Footprint" "lib:TPS5460 康威科技"
 			(at 76.2 76.2 0)
 			(effects
 				(font
@@ -2201,6 +2201,24 @@
 			)
 		)
 		(property "Description" "TPS5460 康威科技"
+			(at 76.2 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "TPS5460 康威科技 (taobao)"
+			(at 76.2 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 76.2 76.2 0)
 			(effects
 				(font
@@ -2256,7 +2274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS5460 康威科技"
+		(property "Footprint" "lib:TPS5460 康威科技"
 			(at 77.47 49.53 0)
 			(effects
 				(font
@@ -2275,6 +2293,24 @@
 			)
 		)
 		(property "Description" "TPS5460 康威科技"
+			(at 77.47 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "TPS5460 康威科技 (taobao)"
+			(at 77.47 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 77.47 49.53 0)
 			(effects
 				(font
@@ -2492,6 +2528,24 @@
 				(hide yes)
 			)
 		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 48.26 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 48.26 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2e5522bf-e258-4a50-8ee7-928a5b1c177b")
 		)
@@ -2600,7 +2654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PinHeader_2x05_P2.54mm_Vertical"
+		(property "Footprint" "lib:PinHeader_2x05_P2.54mm_Vertical"
 			(at 127 31.75 0)
 			(effects
 				(font
@@ -2619,6 +2673,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 127 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 127 31.75 0)
 			(effects
 				(font
@@ -2761,7 +2824,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical"
+		(property "Footprint" "lib:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical"
 			(at 127 17.78 0)
 			(effects
 				(font
@@ -2780,6 +2843,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 127 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "JST XH B2B"
+			(at 127 17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 127 17.78 0)
 			(effects
 				(font
@@ -2983,6 +3064,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 88.9 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 88.9 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 88.9 80.01 0)
 			(effects
 				(font
@@ -3235,7 +3334,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "AMASS_XT30U-M_1x02_P5.0mm_Vertical"
+		(property "Footprint" "lib:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
 			(at 125.73 78.74 0)
 			(effects
 				(font
@@ -3254,6 +3353,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 125.73 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 125.73 78.74 0)
 			(effects
 				(font
@@ -3598,6 +3706,24 @@
 				(hide yes)
 			)
 		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 46.99 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 46.99 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "403ca541-22fd-469c-99d6-54305f235160")
 		)
@@ -3907,7 +4033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PinHeader_2x05_P2.54mm_Vertical"
+		(property "Footprint" "lib:PinHeader_2x05_P2.54mm_Vertical"
 			(at 127 64.77 0)
 			(effects
 				(font
@@ -3926,6 +4052,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 127 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 127 64.77 0)
 			(effects
 				(font
@@ -4534,7 +4669,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PinHeader_2x05_P2.54mm_Vertical"
+		(property "Footprint" "lib:PinHeader_2x05_P2.54mm_Vertical"
 			(at 127 48.26 0)
 			(effects
 				(font
@@ -4553,6 +4688,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 127 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 127 48.26 0)
 			(effects
 				(font
@@ -5161,7 +5305,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS5460 康威科技"
+		(property "Footprint" "lib:TPS5460 康威科技"
 			(at 34.29 76.2 0)
 			(effects
 				(font
@@ -5180,6 +5324,24 @@
 			)
 		)
 		(property "Description" "TPS5460 康威科技"
+			(at 34.29 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "TPS5460 康威科技 (taobao)"
+			(at 34.29 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 34.29 76.2 0)
 			(effects
 				(font
@@ -5904,7 +6066,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS5460 康威科技"
+		(property "Footprint" "lib:TPS5460 康威科技"
 			(at 35.56 49.53 0)
 			(effects
 				(font
@@ -5923,6 +6085,24 @@
 			)
 		)
 		(property "Description" "TPS5460 康威科技"
+			(at 35.56 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "TPS5460 康威科技 (taobao)"
+			(at 35.56 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 35.56 49.53 0)
 			(effects
 				(font
@@ -6065,6 +6245,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 90.17 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 90.17 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "sourcing-remarks" ""
 			(at 90.17 53.34 0)
 			(effects
 				(font

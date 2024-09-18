@@ -139,7 +139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PinHeader_2x05_P2.54mm_Vertical"
+		(property "Footprint" "lib:PinHeader_2x05_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -174,6 +174,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e39016e5-a3dc-4814-a023-24d08f55478e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -515,7 +528,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical"
+		(property "Footprint" "lib:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -550,6 +563,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "JST XH B2B"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57d8689e-76aa-437c-a42d-b13d9f8e173b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1b9c0359-1353-41f3-a7b0-d648fd31dafc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -981,7 +1020,7 @@
 				)
 			)
 		)
-		(property "Footprint" "D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "lib:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1039,6 +1078,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b4ff2b0f-8c85-4d50-b54a-0daaabdec556")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "1N4007"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6e19adb-ee15-476e-a60f-4c9064e88698")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8f8ac83-1502-49d0-9bd8-d8a45b6c79ae")
 			(effects
 				(font
 					(size 1 1)
@@ -1367,7 +1432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "lib:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1402,6 +1467,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" "any 2kOhm resistor, L3.6mm"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "65b3d769-16ba-4dac-9e92-d10fd43708f8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1603,7 +1681,7 @@
 				)
 			)
 		)
-		(property "Footprint" "R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "lib:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1638,6 +1716,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" "any 2kOhm resistor, L3.6mm"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b74f7cac-d6e1-48af-acac-00ee61964eea")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1839,7 +1930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PinHeader_2x03_P2.54mm_Vertical"
+		(property "Footprint" "lib:PinHeader_2x03_P2.54mm_Vertical"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1874,6 +1965,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a9507278-d69b-4eef-b3ce-3aff9d481cc1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2171,7 +2275,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2206,6 +2310,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5470004f-0ef9-4689-986d-7354730af3c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bece01f-7205-489e-b9a0-487def1a397a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4260,7 +4390,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4295,6 +4425,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec9b0807-ef13-42f6-a21d-5040814b8198")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d85a041d-312a-4191-9649-cf1373545521")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6349,7 +6505,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AMASS_XT60PW-M_1x02_P7.20mm_Horizontal"
+		(property "Footprint" "lib:AMASS_XT60PW-M_1x02_P7.20mm_Horizontal"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6384,6 +6540,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f11540c9-a618-4ccf-8a13-25df86009eb4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -6670,7 +6839,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6705,6 +6874,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3cac5d52-9198-4fde-a1f6-5a86aaeb61dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "96717d0f-2a65-440c-8f76-c89d55ce733d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8759,7 +8954,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS5460 康威科技"
+		(property "Footprint" "lib:TPS5460 康威科技"
 			(at 0 -1 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8791,6 +8986,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "dcb8b075-5c7f-4ea6-83c4-8858f5452cd5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "TPS5460 康威科技 (taobao)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d9e599f-aaf5-45d0-b5b8-9a6c9e802379")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb170ef9-90ed-4e2d-ba50-95a3dbf4ee3d")
 			(effects
 				(font
 					(size 1 1)
@@ -9144,7 +9365,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9179,6 +9400,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1df5619d-933f-4015-92b2-640c32012bfc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "889beb5c-9775-4533-a62f-b3369b657c00")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11233,7 +11480,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS5460 康威科技"
+		(property "Footprint" "lib:TPS5460 康威科技"
 			(at 0 -1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11265,6 +11512,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2a90f5b6-315e-4b1a-ab3d-0e25899e2994")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "TPS5460 康威科技 (taobao)"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d5bad053-5976-4dd9-a224-6a61ace239a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd24c0bf-9d72-4eec-a632-9527ccaebeb2")
 			(effects
 				(font
 					(size 1 1)
@@ -11618,7 +11891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AMASS_XT30U-M_1x02_P5.0mm_Vertical"
+		(property "Footprint" "lib:AMASS_XT30U-M_1x02_P5.0mm_Vertical"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11653,6 +11926,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9abbe9a5-df8e-430d-bdde-d11e943bf8fc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -11939,7 +12225,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
+		(property "Footprint" "lib:MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11974,6 +12260,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3a63e4d-1cc0-4793-a126-de68d25406be")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12076,7 +12375,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
+		(property "Footprint" "lib:MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12111,6 +12410,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9492dc50-b9de-4f63-9775-636a1ea26d51")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12213,7 +12525,7 @@
 				)
 			)
 		)
-		(property "Footprint" "G8PM1AW7RDC12"
+		(property "Footprint" "lib:G8PM1AW7RDC12"
 			(at -5.2125 -3.5 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12245,6 +12557,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "G8PM-1AW7RDC12"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9af2568b-d450-498d-b887-ca525379a32b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dadb901d-cb6c-4a88-aa54-885c11a563e2")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12529,7 +12867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
+		(property "Footprint" "lib:MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12564,6 +12902,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b88cfe7-0257-46de-856c-3120ffc5d233")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13193,7 +13544,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PinHeader_2x05_P2.54mm_Vertical"
+		(property "Footprint" "lib:PinHeader_2x05_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13228,6 +13579,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af469ee8-aee7-4c77-a907-65ff61002325")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13568,7 +13932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FUSE-MCCQ-122"
+		(property "Footprint" "lib:FUSE-MCCQ-122"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13600,6 +13964,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "MCCQ-122"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "331d84e4-87f5-496b-9599-3cbdfe2ba689")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5bf61c4c-6286-4d71-acd6-d156858ae20d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13749,7 +14139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS5460 康威科技"
+		(property "Footprint" "lib:TPS5460 康威科技"
 			(at 0 -1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13781,6 +14171,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8ca59f5a-656e-4780-bea5-a98a4ed09665")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "TPS5460 康威科技 (taobao)"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "622ee349-b96c-400a-b95d-fc81ccf8a7be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3996cb04-a921-4b96-b837-64d5b0d38099")
 			(effects
 				(font
 					(size 1 1)
@@ -14134,7 +14550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_D5.0mm"
+		(property "Footprint" "lib:LED_D5.0mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14169,6 +14585,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" "any blue LED, 5mm"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "039d29bd-18fa-418d-9e72-47ce66434ed1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14367,7 +14796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14402,6 +14831,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bdb7c01b-ffb7-4eec-8037-b380f85ea4d0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f515bac0-fdf9-466d-8397-98b2c4861d9d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16457,7 +16912,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
+		(property "Footprint" "lib:MountingHole_5.3mm_M5_ISO7380_Pad_TopBottom"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16492,6 +16947,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2e90e5ed-372d-479f-895d-bb8366c1e21a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16593,7 +17061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PinHeader_2x05_P2.54mm_Vertical"
+		(property "Footprint" "lib:PinHeader_2x05_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16628,6 +17096,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6b4d1bd2-a414-4ea2-8d5b-fa3698813728")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -16969,7 +17450,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17004,6 +17485,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d179a06-e91c-4048-94a5-d38086d3aa4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4494de3b-9d56-4f49-a9e7-be144977526b")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -19058,7 +19565,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS5460 康威科技"
+		(property "Footprint" "lib:TPS5460 康威科技"
 			(at 0 -1 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19090,6 +19597,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "080742b3-5d5a-4f3d-89b4-e59eee2aaa5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "TPS5460 康威科技 (taobao)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "967a8d80-ebb3-447b-a97b-0c2879c2a7fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a50994a1-bea6-49b2-bb7d-0822f285ae2f")
 			(effects
 				(font
 					(size 1 1)
@@ -19443,7 +19976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19478,6 +20011,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1704ffc-7955-4ce4-aaf8-f8d3ae07c816")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6ef34cd-0d5e-40c6-8771-a1614df5c2a9")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21532,7 +22091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_D5.0mm"
+		(property "Footprint" "lib:LED_D5.0mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21567,6 +22126,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" "any green LED, 5mm"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "69e4eb17-f1be-49fc-b6b3-d0df2e157b04")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21765,7 +22337,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "lib:CP_Radial_D10.0mm_P5.00mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21800,6 +22372,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-part-num" "EEUFR1V561"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "69e879d7-9cc8-4f44-b134-f3cbc471cea8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "sourcing-remarks" "or any 560uF 35V cap, D10mm P5mm"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e2604d7f-fd4f-445f-8a57-8ee0c9f866c5")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
